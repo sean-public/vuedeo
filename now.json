@@ -1,0 +1,10 @@
+{
+	"env": {
+		"DAILY_API_KEY": "@daily_api_key",
+		"PGHOST": "@pghost",
+		"PGPORT": "@pgport",
+		"PGDATABASE": "@pgdatabase",
+		"PGUSER": "@pguser",
+		"PGPASSWORD": "@pgpassword"
+	}
+}
